@@ -1,0 +1,13 @@
+body {
+	background-color: grey;
+	font-family: sans-serif;
+	
+}
+.current{
+	background-color: white;
+	color: grey;
+}
+a
+{
+	color: white;
+}

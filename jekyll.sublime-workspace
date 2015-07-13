@@ -3,6 +3,26 @@
 	{
 		"selected_items":
 		[
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +31,58 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 172,
+				"buffer_size": 80,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news.html",
+			"settings":
+			{
+				"buffer_size": 54,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/commen.css",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<ul>\n		<li><a href=\"{{site.baseurl}}/index.html\" class = \"current\"> Home</a></li>\n		<li><a href=\"{{site.baseurl}}/news.html\">News</a></li>\n	</ul>",
+			"file": "_include/nav.html",
+			"file_size": 127,
+			"file_write_time": 1436790446000000,
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/nav.html",
+			"settings":
+			{
+				"buffer_size": 126,
 				"line_ending": "Unix"
 			}
 		}
@@ -75,7 +146,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -83,15 +154,172 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 172,
+						"buffer_size": 80,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								134,
-								134
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "news.html",
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/commen.css",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_include/nav.html",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/nav.html",
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
 							]
 						],
 						"settings":
@@ -113,7 +341,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"layout":
 	{
@@ -163,6 +391,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 208.0,
 	"status_bar_visible": true
 }

@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
 				"s",
 				"sans-serif"
 			],
@@ -55,7 +63,7 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 274,
+				"buffer_size": 275,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,18 +71,7 @@
 			"file": "css/commen.css",
 			"settings":
 			{
-				"buffer_size": 61,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<ul>\n		<li><a href=\"{{site.baseurl}}/index.html\" class = \"current\"> Home</a></li>\n		<li><a href=\"{{site.baseurl}}/news.html\">News</a></li>\n	</ul>",
-			"file": "_include/nav.html",
-			"file_size": 127,
-			"file_write_time": 1436790446000000,
-			"settings":
-			{
-				"buffer_size": 145,
+				"buffer_size": 135,
 				"line_ending": "Unix"
 			}
 		},
@@ -82,7 +79,7 @@
 			"file": "_includes/nav.html",
 			"settings":
 			{
-				"buffer_size": 126,
+				"buffer_size": 249,
 				"line_ending": "Unix"
 			}
 		}
@@ -111,6 +108,7 @@
 	},
 	"file_history":
 	[
+		"/home/ravikant/Desktop/my_jekyll_project/_include/nav.html",
 		"/home/ravikant/Desktop/Codes/pointer.c"
 	],
 	"find":
@@ -146,7 +144,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -232,15 +230,15 @@
 					"file": "_layouts/default.html",
 					"settings":
 					{
-						"buffer_size": 274,
+						"buffer_size": 275,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126,
-								126
+								129,
+								129
 							]
 						],
 						"settings":
@@ -258,15 +256,15 @@
 					"file": "css/commen.css",
 					"settings":
 					{
-						"buffer_size": 61,
+						"buffer_size": 135,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								61,
-								61
+								131,
+								131
 							]
 						],
 						"settings":
@@ -281,45 +279,18 @@
 				},
 				{
 					"buffer": 5,
-					"file": "_include/nav.html",
-					"settings":
-					{
-						"buffer_size": 145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								145,
-								145
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "_includes/nav.html",
 					"settings":
 					{
-						"buffer_size": 126,
+						"buffer_size": 249,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126,
-								126
+								201,
+								201
 							]
 						],
 						"settings":
